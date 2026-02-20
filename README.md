@@ -37,7 +37,7 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 - **Bulk Renamer**  
   A powerful batch renaming tool with regex support and preview features.
   - Store link: [Available in the Microsoft Store](https://apps.microsoft.com/detail/9N6H9291WB4B)
-  - Repo link: TO DO
+  - 🔗 Repo link: TO DO
 ---
 
 ### 🤖 Advanced Academic Projects
@@ -47,7 +47,12 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
  
 - **Forbidden Island game coded in Java**  
   Java Swing game inspired by *Forbidden Island*, built with a clean **MVC architecture**.  
-  - Repository: *(link to add)*
+  - 🔗 Repository: *(link to add)*
+ 
+- **HOP! — Java Game**  
+  A fast-paced platform game, jump from platform to platform and get the highest score!
+  Includes a **local multiplayer mode** (two players with separate controls).   
+  - 🔗 Repository: https://github.com/EagleForce14/ProjetHop
 
 ---
 
