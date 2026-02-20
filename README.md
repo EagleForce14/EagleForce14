@@ -1,4 +1,5 @@
 # Cyprien Brion | Software Engineering, Data & AI/ML
+**WORK IN PROGRESS**
 
 Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Paris-Saclay University and I am currently building **product-oriented applications** (iOS & Windows) and work on **academic projects in AI and data science**.
 
