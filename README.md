@@ -56,11 +56,5 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 
 ---
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=EagleForce14)](https://github.com/stats-organization/github-stats-extended)
-
----
-
 ## 📬 Get in Touch
 - LinkedIn: *(link to add)*
