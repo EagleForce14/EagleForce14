@@ -52,7 +52,7 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 - **HOP! — Java Game**  
   A fast-paced platform game, jump from platform to platform and get the highest score!
   Includes a **local multiplayer mode** (two players with separate controls).   
-  - 🔗 Repository: https://github.com/EagleForce14/ProjetHop
+  - 🔗 [Repo link](https://github.com/EagleForce14/ProjetHop)
 
 ---
 
