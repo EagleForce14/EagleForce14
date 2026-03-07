@@ -57,4 +57,4 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 ---
 
 ## 📬 Get in Touch
-- LinkedIn: *(link to add)*
+- [LinkedIn](https://www.linkedin.com/in/cyprien-brion-37b9203b4)
