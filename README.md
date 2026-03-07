@@ -37,7 +37,7 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 - **Bulk Renamer**  
   A powerful batch renaming tool with regex support and preview features.
   - Store link: [Available in the Microsoft Store](https://apps.microsoft.com/detail/9N6H9291WB4B)
-  - 🔗 Repo link: TO DO
+  - 🔗 [Repo link](https://github.com/EagleForce14/Batch-Renaming)
 ---
 
 ### 🤖 Advanced Academic Projects
