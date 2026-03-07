@@ -21,7 +21,7 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 ### 📱 iOS Applications
 - **Muse: Motivation & Quotes**  
   A motivation app featuring quotes, widgets and a modern SwiftUI interface
-  - App Store: *(link to add)*
+  - Store link: [Available in the App Store](https://apps.apple.com/us/app/muse-motivation-citation/id6504193681)
 
 - **Stickers**  
   An app that uses artificial intelligence models to create cute little stickers to share with friends.
