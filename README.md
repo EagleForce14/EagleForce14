@@ -12,7 +12,8 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 | **iOS** | Swift · SwiftUI · Xcode |
 | **Windows** | C# · WinUI 3 · .NET |
 | **Data / ML** | Python · Pandas · NumPy · scikit-learn |
-| **Tools** | Git · VS Code · RevenueCat · OpenAI API |
+| **Academic** | Java |
+| **Tools** | Git · VS Code · RevenueCat · OpenAI API · IntelliJ IDEA |
 
 ---
 
