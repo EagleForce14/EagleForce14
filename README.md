@@ -1,5 +1,4 @@
 # Cyprien Brion | Software Engineering, Data & AI/ML
-**WORK IN PROGRESS**
 
 Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Paris-Saclay University and I am currently building **product-oriented applications** (iOS & Windows) and work on **academic projects in AI and data science**.
 
@@ -27,6 +26,7 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 - **Stickers**  
   An app that uses artificial intelligence models to create cute little stickers to share with friends.
   - Tech: SwiftUI · RevenueCat · OpenAI API
+  - Store link: [Available in the App Store](https://apps.apple.com/us/app/stickers-kawaii-cute-world/id6740009176)
 
 ---
 
@@ -44,7 +44,7 @@ Hi 👋! I am in my third year of a bachelor's degree in Computer Science at Par
 ### 🤖 Advanced Academic Projects
 - **Fairness in Machine Learning**  
   Evaluation of fairness metrics (statistical parity, disparate impact, confusion matrices) using AIF360.
-  - Repository: *(link to add)*
+  - 🔗 [Repo link](https://github.com/EagleForce14/Fairness)
  
 - **Forbidden Island game coded in Java**  
   Java Swing game inspired by *Forbidden Island*, built with a clean **MVC architecture**.  
